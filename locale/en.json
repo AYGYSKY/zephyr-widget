@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Zephyr Widget",
+    "description": "Keeps a small Zephyr (防风) companion floating in the bottom-right corner of the window. Drag it anywhere; click it to change its expression."
+  }
+}

@@ -1,0 +1,686 @@
+[
+ {
+  "index": 1,
+  "name": "防风表情-001.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.562,
+  "white_ratio": 0.047
+ },
+ {
+  "index": 2,
+  "name": "防风表情-002.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.528,
+  "white_ratio": 0.077
+ },
+ {
+  "index": 3,
+  "name": "防风表情-003.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.615,
+  "white_ratio": 0.057
+ },
+ {
+  "index": 4,
+  "name": "防风表情-004.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.582,
+  "white_ratio": 0.064
+ },
+ {
+  "index": 5,
+  "name": "防风表情-005.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.549,
+  "white_ratio": 0.062
+ },
+ {
+  "index": 6,
+  "name": "防风表情-006.png",
+  "size": [
+   1080,
+   1080
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.538,
+  "white_ratio": 0.045
+ },
+ {
+  "index": 7,
+  "name": "防风表情-007.jpeg",
+  "size": [
+   1080,
+   1080
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.737
+ },
+ {
+  "index": 8,
+  "name": "防风表情-008.jpeg",
+  "size": [
+   1080,
+   1080
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.649
+ },
+ {
+  "index": 9,
+  "name": "防风表情-009.gif",
+  "size": [
+   720,
+   720
+  ],
+  "mode": "P",
+  "animated": true,
+  "opaque_ratio": 0.177,
+  "white_ratio": 0.045
+ },
+ {
+  "index": 10,
+  "name": "防风表情-010.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.862,
+  "white_ratio": 0.188
+ },
+ {
+  "index": 11,
+  "name": "防风表情-011.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.315
+ },
+ {
+  "index": 12,
+  "name": "防风表情-012.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.614,
+  "white_ratio": 0.126
+ },
+ {
+  "index": 13,
+  "name": "防风表情-013.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.614,
+  "white_ratio": 0.134
+ },
+ {
+  "index": 14,
+  "name": "防风表情-014.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.552,
+  "white_ratio": 0.08
+ },
+ {
+  "index": 15,
+  "name": "防风表情-015.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.519,
+  "white_ratio": 0.071
+ },
+ {
+  "index": 16,
+  "name": "防风表情-016.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.527,
+  "white_ratio": 0.072
+ },
+ {
+  "index": 17,
+  "name": "防风表情-017.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.527,
+  "white_ratio": 0.07
+ },
+ {
+  "index": 18,
+  "name": "防风表情-018.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.527,
+  "white_ratio": 0.087
+ },
+ {
+  "index": 19,
+  "name": "防风表情-019.jpeg",
+  "size": [
+   766,
+   903
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.402
+ },
+ {
+  "index": 20,
+  "name": "防风表情-020.jpeg",
+  "size": [
+   1103,
+   1080
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.03
+ },
+ {
+  "index": 21,
+  "name": "防风表情-021.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.509,
+  "white_ratio": 0.077
+ },
+ {
+  "index": 22,
+  "name": "防风表情-022.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.659,
+  "white_ratio": 0.213
+ },
+ {
+  "index": 23,
+  "name": "防风表情-023.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.563,
+  "white_ratio": 0.061
+ },
+ {
+  "index": 24,
+  "name": "防风表情-024.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.548,
+  "white_ratio": 0.076
+ },
+ {
+  "index": 25,
+  "name": "防风表情-025.jpeg",
+  "size": [
+   1080,
+   1191
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.041
+ },
+ {
+  "index": 26,
+  "name": "防风表情-026.jpeg",
+  "size": [
+   507,
+   515
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.067
+ },
+ {
+  "index": 27,
+  "name": "防风表情-027.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.58,
+  "white_ratio": 0.107
+ },
+ {
+  "index": 28,
+  "name": "防风表情-028.jpeg",
+  "size": [
+   740,
+   837
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.514
+ },
+ {
+  "index": 29,
+  "name": "防风表情-029.gif",
+  "size": [
+   720,
+   720
+  ],
+  "mode": "P",
+  "animated": true,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.362
+ },
+ {
+  "index": 30,
+  "name": "防风表情-030.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.564,
+  "white_ratio": 0.081
+ },
+ {
+  "index": 31,
+  "name": "防风表情-031.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.57
+ },
+ {
+  "index": 32,
+  "name": "防风表情-032.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.565
+ },
+ {
+  "index": 33,
+  "name": "防风表情-033.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.565
+ },
+ {
+  "index": 34,
+  "name": "防风表情-034.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.564,
+  "white_ratio": 0.088
+ },
+ {
+  "index": 35,
+  "name": "防风表情-035.gif",
+  "size": [
+   720,
+   720
+  ],
+  "mode": "P",
+  "animated": true,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.482
+ },
+ {
+  "index": 36,
+  "name": "防风表情-036.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.564,
+  "white_ratio": 0.088
+ },
+ {
+  "index": 37,
+  "name": "防风表情-037.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.564,
+  "white_ratio": 0.093
+ },
+ {
+  "index": 38,
+  "name": "防风表情-038.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "LA",
+  "animated": false,
+  "opaque_ratio": 0.575,
+  "white_ratio": 0.089
+ },
+ {
+  "index": 39,
+  "name": "防风表情-039.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.458,
+  "white_ratio": 0.073
+ },
+ {
+  "index": 40,
+  "name": "防风表情-040.png",
+  "size": [
+   1272,
+   1272
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.458,
+  "white_ratio": 0.068
+ },
+ {
+  "index": 41,
+  "name": "防风表情-041.jpeg",
+  "size": [
+   1080,
+   1080
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.0
+ },
+ {
+  "index": 42,
+  "name": "防风表情-042.jpeg",
+  "size": [
+   1080,
+   1080
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.0
+ },
+ {
+  "index": 43,
+  "name": "防风表情-043.jpeg",
+  "size": [
+   1080,
+   1080
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.207
+ },
+ {
+  "index": 44,
+  "name": "防风表情-044.jpeg",
+  "size": [
+   912,
+   1153
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.293
+ },
+ {
+  "index": 45,
+  "name": "防风表情-045.jpeg",
+  "size": [
+   809,
+   1148
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.582
+ },
+ {
+  "index": 46,
+  "name": "防风表情-046.jpeg",
+  "size": [
+   670,
+   772
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.412
+ },
+ {
+  "index": 47,
+  "name": "防风表情-047.jpeg",
+  "size": [
+   786,
+   994
+  ],
+  "mode": "RGB",
+  "animated": false,
+  "opaque_ratio": 1.0,
+  "white_ratio": 0.006
+ },
+ {
+  "index": 48,
+  "name": "防风表情-048.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.503,
+  "white_ratio": 0.081
+ },
+ {
+  "index": 49,
+  "name": "防风表情-049.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.583,
+  "white_ratio": 0.058
+ },
+ {
+  "index": 50,
+  "name": "防风表情-050.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.547,
+  "white_ratio": 0.064
+ },
+ {
+  "index": 51,
+  "name": "防风表情-051.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.515,
+  "white_ratio": 0.065
+ },
+ {
+  "index": 52,
+  "name": "防风表情-052.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.537,
+  "white_ratio": 0.05
+ },
+ {
+  "index": 53,
+  "name": "防风表情-053.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.571,
+  "white_ratio": 0.055
+ },
+ {
+  "index": 54,
+  "name": "防风表情-054.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.459,
+  "white_ratio": 0.073
+ },
+ {
+  "index": 55,
+  "name": "防风表情-055.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.597,
+  "white_ratio": 0.083
+ },
+ {
+  "index": 56,
+  "name": "防风表情-056.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.459,
+  "white_ratio": 0.075
+ },
+ {
+  "index": 57,
+  "name": "防风表情-057.png",
+  "size": [
+   400,
+   400
+  ],
+  "mode": "RGBA",
+  "animated": false,
+  "opaque_ratio": 0.574,
+  "white_ratio": 0.054
+ }
+]

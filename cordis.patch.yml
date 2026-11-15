@@ -1,0 +1,3 @@
+- insert:
+    - id: zephyr-widget
+      name: 'dsh-zephyr-widget'
