@@ -1,3 +1,11 @@
+写在前面的话：
+你好我叫AYGY暗夜古韵
+或者你可以叫我
+ANSE安娜斯千
+
+贴纸与形象来自虚拟歌姬「防风Zephyr」企划组，随插件一起分发前请确认你拥有分发权。
+关注防风Zephyr
+
 # 防风挂件 Zephyr（dsh-zephyr-widget）
 
 DSH Web UI 右下角的小挂件：一张可拖动的「防风 / Zephyr」Q 版贴纸，会跟着会话状态换表情，
@@ -110,4 +118,4 @@ python tools/pack.py     # 按 package.json 的 version 生成 dist/*.tgz
 
 ## 素材说明
 
-贴纸与形象来自作者本人的原创角色「防风 / Zephyr」，随插件一起分发前请确认你拥有分发权。
+贴纸与形象来自虚拟歌姬「防风Zephyr」企划组，随插件一起分发前请确认你拥有分发权。
