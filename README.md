@@ -31,6 +31,9 @@ DSH Web UI 右下角的小挂件：一张可拖动的「防风 / Zephyr」Q 版�
 
 ## 安装
 
+```bash
+dsh plugin --profile web add github:AYGYSKY/zephyr-widget
+```
 > 需要 DSH **44.7.0 或更高**。
 
 ### 方式 A：从 Releases 下载（推荐）
