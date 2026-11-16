@@ -30,12 +30,11 @@ DSH Web UI 右下角的小挂件：一张可拖动的「防风 / Zephyr」Q 版�
 - 位置、大小、开关全部存在浏览器 localStorage
 
 ## 安装
+
 最快的方式（已发布到 npm）：
 
 ```bash
 dsh plugin --profile web add dsh-zephyr-widget
-```bash
-dsh plugin --profile web add github:AYGYSKY/zephyr-widget
 ```
 > 需要 DSH **44.7.0 或更高**。
 
