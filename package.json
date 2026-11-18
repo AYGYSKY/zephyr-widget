@@ -1,8 +1,7 @@
 {
   "name": "dsh-zephyr-widget",
-  "version": "0.3.36",
+  "version": "0.3.37",
   "description": "A draggable Zephyr (防风) sticker widget floating in the bottom-right corner of the web UI.",
-  "private": true,
   "type": "module",
   "exports": {
     ".": "./index.js",
@@ -26,5 +25,19 @@
       "immediately": true,
       "inject": []
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AYGYSKY/zephyr-widget.git"
+  },
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "widget",
+    "desktop-pet",
+    "sticker"
+  ],
+  "license": "MIT",
+  "author": "AYGYSKY"
 }

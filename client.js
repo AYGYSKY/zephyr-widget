@@ -11,6 +11,7 @@ window.__ModuleLoader__.load({
     // 否则老用户（包括本机）的位置/大小/台词设置会被整体重置。
     const POSITION_KEY = 'dsh.windbreak-widget.position';
     const ASLEEP_KEY = 'dsh.windbreak-widget.asleep';
+    const NAP_KEY = 'dsh.windbreak-widget.napon';
     const SIZE_KEY = 'dsh.windbreak-widget.size';
     const INTERVAL_KEY = 'dsh.windbreak-widget.interval';
     const AUTO_KEY = 'dsh.windbreak-widget.auto';
@@ -18,7 +19,7 @@ window.__ModuleLoader__.load({
     const SAY_KEY = 'dsh.windbreak-widget.say';
     const SOUND_KEY = 'dsh.windbreak-widget.sound';
     const RING_KEY = 'dsh.windbreak-widget.ring';
-    const VERSION = '0.3.36';
+    const VERSION = '0.3.37';
     const PULSE_KEY = 'dsh.windbreak-widget.pulse';
     const PULSE_STYLE_KEY = 'dsh.windbreak-widget.pulsestyle';
     const MENU_H_KEY = 'dsh.windbreak-widget.menuh';
@@ -826,6 +827,7 @@ window.__ModuleLoader__.load({
       const [position, setPosition] = useState(readPosition);
       const [dragging, setDragging] = useState(false);
       const [asleep, setAsleep] = useState(() => readFlag(ASLEEP_KEY, false));
+      const [napOn, setNapOn] = useState(() => readFlag(NAP_KEY, true));
       const [manualFace, setManualFace] = useState(FALLBACK);
       const [say, setSay] = useState('');
       const [fixedSay, setFixedSay] = useState(() => {
@@ -1062,7 +1064,7 @@ window.__ModuleLoader__.load({
         setPulseSeq(0);
         setPosition(null);
         setMenuHeight(0);
-        [SIZE_KEY, INTERVAL_KEY, AUTO_KEY, HUD_KEY, ASLEEP_KEY, SAY_KEY, SOUND_KEY, RING_KEY, PULSE_KEY, PULSE_STYLE_KEY, MENU_H_KEY].forEach(clearValue);
+        [SIZE_KEY, INTERVAL_KEY, AUTO_KEY, HUD_KEY, ASLEEP_KEY, SAY_KEY, SOUND_KEY, RING_KEY, PULSE_KEY, PULSE_STYLE_KEY, MENU_H_KEY, NAP_KEY].forEach(clearValue);
         writePosition(null);
         window.clearTimeout(sayTimerRef.current);
         setSay('');
@@ -1070,13 +1072,15 @@ window.__ModuleLoader__.load({
       }, []);
 
       const toggleAsleep = useCallback(() => {
+        // 菜单里关掉「双击打盹」后双击不再触发
+        if (!napOn) return;
         const next = !asleep;
         setAsleep(next);
         writeValue(ASLEEP_KEY, next ? '1' : '0');
         setManualFace(FALLBACK);
         window.clearTimeout(sayTimerRef.current);
         setSay('');
-      }, [asleep]);
+      }, [asleep, napOn]);
 
       const handlePointerDown = useCallback((event) => {
         if (event.pointerType === 'mouse' && event.button !== 0) return;
@@ -1339,6 +1343,19 @@ window.__ModuleLoader__.load({
               },
             }),
             h('span', null, '显示花费与峰谷'),
+          ),
+          h('label', { className: 'dshwb-check' },
+            h('input', {
+              type: 'checkbox',
+              checked: napOn,
+              onChange: (event) => {
+                const next = event.target.checked;
+                setNapOn(next);
+                writeValue(NAP_KEY, next ? '1' : '0');
+                if (!next && asleep) setAsleep(false);
+              },
+            }),
+            h('span', null, '双击打盹'),
           ),
           h('label', { className: 'dshwb-check' },
             h('input', {
